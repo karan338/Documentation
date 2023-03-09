@@ -1,1 +1,17 @@
-{"ProjectId":null,"ProjectName":null,"Source":"Document360","ImagesPath":"https://cdn.document360.io/b618a27d-7a6e-4dfb-84d1-30d3ef656644/Images/Documentation","Platform":null,"URLRewriteRules":null,"IsMultiLanguageContent":false,"ExportVersions":[{"Slug":"v1","Languages":["en"]}]}
+{
+    "ProjectId": null,
+    "ProjectName": null,
+    "Source": "Document360",
+    "ImagesPath": "https://cdn.document360.io/b618a27d-7a6e-4dfb-84d1-30d3ef656644/Images/Documentation",
+    "Platform": null,
+    "URLRewriteRules": null,
+    "IsMultiLanguageContent": false,
+    "ExportVersions": [
+        {
+            "Slug": "v1",
+            "Languages": [
+                "en"
+            ]
+        }
+    ]
+}
